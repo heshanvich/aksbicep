@@ -149,3 +149,5 @@ voteappprod   azure-vote-front                 LoadBalancer   10.0.19.38     1.2
 ```
 
 ![Voting App](images/vote-app.png)
+
+//added by heshan
